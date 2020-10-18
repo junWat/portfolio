@@ -1,0 +1,79 @@
+[
+  {
+    "name": "chat",
+    "path": "/chat",
+    "component": "/Users/jun/Desktop/portfolio/sample1/pages/chat.vue",
+    "chunkName": "pages/chat",
+    "_name": "_4bda8709"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "/Users/jun/Desktop/portfolio/sample1/pages/contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_6bdf5202"
+  },
+  {
+    "name": "how-to-use-chat",
+    "path": "/how-to-use-chat",
+    "component": "/Users/jun/Desktop/portfolio/sample1/pages/how-to-use-chat.vue",
+    "chunkName": "pages/how-to-use-chat",
+    "_name": "_5950395c"
+  },
+  {
+    "name": "how-to-use-todo",
+    "path": "/how-to-use-todo",
+    "component": "/Users/jun/Desktop/portfolio/sample1/pages/how-to-use-todo.vue",
+    "chunkName": "pages/how-to-use-todo",
+    "_name": "_306f9140"
+  },
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/Users/jun/Desktop/portfolio/sample1/pages/inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_58ebb8b9"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/Users/jun/Desktop/portfolio/sample1/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_6b0bbb88"
+  },
+  {
+    "name": "profile",
+    "path": "/profile",
+    "component": "/Users/jun/Desktop/portfolio/sample1/pages/profile.vue",
+    "chunkName": "pages/profile",
+    "_name": "_5b905ff0"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "/Users/jun/Desktop/portfolio/sample1/pages/register.vue",
+    "chunkName": "pages/register",
+    "_name": "_6eb55f58"
+  },
+  {
+    "name": "todo",
+    "path": "/todo",
+    "component": "/Users/jun/Desktop/portfolio/sample1/pages/todo.vue",
+    "chunkName": "pages/todo",
+    "_name": "_ae1b9612"
+  },
+  {
+    "name": "top-description",
+    "path": "/top-description",
+    "component": "/Users/jun/Desktop/portfolio/sample1/pages/top-description.vue",
+    "chunkName": "pages/top-description",
+    "_name": "_878ead3a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/jun/Desktop/portfolio/sample1/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_bd37cf1e"
+  }
+]
